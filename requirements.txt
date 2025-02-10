@@ -3,7 +3,7 @@ slack_sdk==3.34.0
 uvicorn-loguru-integration==0.3.1
 httptools==0.6.4
 requests==2.32.3
-aiohttp==3.11.11
+aiohttp==3.11.12
 async-cache==1.1.1
 setuptools==75.8.0
 fastapi
