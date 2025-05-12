@@ -603,7 +603,8 @@ spec:
       optional: true
     - name: netrc
       optional: true
-  taskRunTemplate: {}
+  taskRunTemplate:
+    serviceAccountName: build-pipeline-bug-master-bot-saas-main
   workspaces:
   - name: workspace
     volumeClaimTemplate:
