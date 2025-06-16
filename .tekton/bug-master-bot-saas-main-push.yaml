@@ -29,7 +29,7 @@ spec:
   - name: build-args
     value:
     - release={{target_branch}
-  - version={{revision}}
+    - version={{revision}}
   pipelineSpec:
     description: |
       This pipeline is ideal for building container images from a Containerfile while reducing network traffic.
