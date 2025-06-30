@@ -1,4 +1,4 @@
-uvicorn==0.34.3
+uvicorn==0.35.0
 slack_sdk==3.35.0
 uvicorn-loguru-integration==0.3.1
 httptools==0.6.4
