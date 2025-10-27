@@ -1,7 +1,7 @@
 [build-system]
 requires = [
     "setuptools==80.9.0",
-    "setuptools_scm[toml]==9.2.0",
+    "setuptools_scm[toml]==9.2.2",
 ]
 build-backend = "setuptools.build_meta"
 
@@ -34,14 +34,14 @@ bug-master = "bug_master.main:main"
 
 lint = [
     "black==25.9.0",
-    "isort==6.1.0",
+    "isort==7.0.0",
     "flake8==7.3.0",
-    "flake8-bugbear==24.12.12",
+    "flake8-bugbear==25.10.21",
     "flake8_formatter_junit_xml==0.0.6",
     "flake8-colors==0.1.9",
     "flake8-eradicate==1.5.0",
     "pep8-naming==0.15.1",
     "flake8-use-fstring==1.4",
     "flake8-black==0.4.0",
-    "flake8-isort==6.1.2",
+    "flake8-isort==7.0.0",
 ]
