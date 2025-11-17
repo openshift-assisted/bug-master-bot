@@ -1,5 +1,5 @@
 uvicorn==0.38.0
-slack_sdk==3.37.0
+slack_sdk==3.38.0
 uvicorn-loguru-integration==0.3.1
 httptools==0.7.1
 requests==2.32.5
