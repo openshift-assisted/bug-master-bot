@@ -4,7 +4,7 @@ uvicorn-loguru-integration==0.3.1
 httptools==0.7.1
 requests==2.32.5
 aiohttp==3.13.3
-async-cache==1.2.1
+async-cache==2.0.0
 setuptools==82.0.0
 fastapi
 loguru

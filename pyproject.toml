@@ -34,7 +34,7 @@ bug-master = "bug_master.main:main"
 
 lint = [
     "black==26.1.0",
-    "isort==8.0.0",
+    "isort==8.0.1",
     "flake8==7.3.0",
     "flake8-bugbear==25.11.29",
     "flake8_formatter_junit_xml==0.0.6",
