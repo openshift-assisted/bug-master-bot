@@ -1,6 +1,6 @@
 [build-system]
 requires = [
-    "setuptools==82.0.0",
+    "setuptools==82.0.1",
     "setuptools_scm[toml]==9.2.2",
 ]
 build-backend = "setuptools.build_meta"
@@ -33,7 +33,7 @@ bug-master = "bug_master.main:main"
 [project.optional-dependencies]
 
 lint = [
-    "black==26.1.0",
+    "black==26.3.0",
     "isort==8.0.1",
     "flake8==7.3.0",
     "flake8-bugbear==25.11.29",
